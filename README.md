@@ -1,30 +1,16 @@
 <!-- Header -->
-<h1 align="center">👋 Hey there, I'm Ayan Das</h1>
-<h3 align="center">💻 2nd Year B.Tech CSE Student at NIT Agartala | 🧠 CP Enthusiast | 🌍 Open-Source Contributor</h3>
+<h1 align="center">💻 Open-Source Contributor</h2>
 
----
+### Tech Stack
 
-### 🧑‍💼 About Me
-
-- 🎓 Pursuing **B.Tech in Computer Science and Engineering** at **NIT Agartala**  
-- 💻 I enjoy solving challenging problems in **Competitive Programming**  
-- 🌱 Contributing to different **open-source** projects  
-- ⚙️ Interested in **frontend development**, **system design**, and **performance optimization**  
-- 🧩 Always learning, always building — one project at a time  
-- ⚡ Fun fact: I think better while chewing on my pen 😅  
-
----
-
-### 🧠 Tech Stack
-
-#### 💬 Languages
+#### Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=yellow)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)
 ![D](https://img.shields.io/badge/D_Lang-B03931?style=for-the-badge&logo=d&logoColor=white)
 
-#### 🧰 Frameworks / Tools
+#### Frameworks / Tools
 ![GTK](https://img.shields.io/badge/GTK-7FE719?style=for-the-badge&logo=gtk&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vue.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -34,6 +20,7 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
+### Holopin Badges
 
 [![An image of @ay1ndas's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ay1ndas)](https://holopin.io/@ay1ndas)
 
@@ -52,7 +39,7 @@
 
 ---
 
-### 🌐 Connect With Me
+### 🌐 Socials
 
 <p align="left">
   <a href="https://github.com/Ay1nDas"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
